@@ -1,6 +1,6 @@
 # BGRL
 
-This is a demo for the paper Behavior-Guided Reinforcement Learning, currently under review. 
+This is a demo for the paper Learning to Score Behaviors for Guided Policy Optimization, currently under review. 
 
 We would like you to focus on the notebook Demo.ipynb, where we go through an example of how to calculate the behavioral test functions (Algorithm 1 in the paper) and use them to solve reinforcement learning environment with Behavior-Guided Evolution Strategies (BGES).
 
