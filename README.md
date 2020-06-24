@@ -13,7 +13,7 @@ We would also be interested in assisting anyone in scaling up this method to a d
 # Citation
 
 ```
-@inproceedings{49237,
+@inproceedings{bgrl,
 title	= {Learning to Score Behaviors for Guided Policy Optimization},
 author	= {Aldo Pacchiano and Jack Parker-Holder and Yunhao Tang and Anna Choromanska and Krzysztof Choromanski and Michael I. Jordan},
 year	= {2020},
